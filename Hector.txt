@@ -1,5 +1,8 @@
 Hola soy hector Rafael y este es mi primer proyecto en git 
 
-Ahora mismo tengo 18 años y soy un novato en todo esto, espero me vaya bienn no mejor dicho se que me ira de putamadre.
+Ahora mismo tengo 18 años y soy un novato en todo esto, espero me vaya bien no mejor dicho se que me ira de putamadre.
 
 A darle con fe.
+
+#al parecer tuve algunos errores jajaja
+
